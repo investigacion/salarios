@@ -1,4 +1,4 @@
-# Datos de Salarios de la CCSS
+# Datos de Salarios de la CCSS  (no incluye aguinaldos)
 
 Se incluye en formato csv un archivo con los siguientes campos:
 
